@@ -55,6 +55,5 @@ Refer to the diagram below for a visual representation of the framework:
 
 ## Future Enhancements
 - Improved LLM fine-tuning for domain-specific applications.
-- Support for additional languages in speech-to-text conversion.
 - Integration with more types of robots and environments.
 
